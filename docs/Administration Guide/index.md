@@ -7,7 +7,7 @@
 
 2. Volume Creation
 
-        *  [Distribute](./ristribute.md)
+        *  [Distribute](./distribute.md)
         *  [Replicate](./replicate.md)
 	*  [Distribute-Replicate](./distribute-replicate.md)
         *  [Disperse](./disperse.md)
