@@ -21,7 +21,7 @@
 	*  [Scale Up Disperse By One](./scale-up-desperse-by-one.md)
 	*  [Scale Up Storage](./scale-up-storage.md)
 	*  [Scale Down Storage](./scale-down-storage.md)
-	*  [Replacing bricks](./replace_bricks.md)
+	*  [Replacing bricks](./replace-bricks.md)
 	*  [Rebalance Volume Data](./rebalance.md)
 	*  [Self Heal Volume Data](./self-heal.md)
 
