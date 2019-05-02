@@ -1,5 +1,5 @@
 1. [GlusterFS](./glusterfs-quick-start.md)
-2. [Gluster Block](./gluster-block-quick-start.md)
+2. [Gluster Block](./gluster-block.md)
 3. [Gluster Object](./gluster-object-store-quick-start.md)
 3. [Gluster Container Storage](./gluster-container-store-quick-start.md)
 4. [Gluster For Hyperconverged Infrastructure](./gluster-ovirt.md)
