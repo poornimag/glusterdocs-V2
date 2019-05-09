@@ -82,10 +82,7 @@ nav:
        - ZFS: Administration Guide/zfs.md
     - Glossory: Administration Guide/glossory.md
 
-- Release Notes:
-- Upgrade Guide:
-
-themes:
+theme:
   name: 'material'
 extra_javascript:
 - js/fix-docs.js
