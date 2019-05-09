@@ -1,16 +1,16 @@
 # Administration Guide
 1. Prerequisites
 
-        *  [Add Firewall Rules](./firewall-rules.md)
-        *  [Create Storage Pool](./create-storage-pool.md)
+	*  [Add Firewall Rules](./firewall-rules.md)
+	*  [Create Storage Pool](./create-storage-pool.md)
 	*  [Create Bricks](./create-bricks.md)
 
-2. Volume Creation
+2. Volume Create
 
-        *  [Distribute](./distribute.md)
-        *  [Replicate](./replicate.md)
+	*  [Dsitribute](./distribute.md)
+	*  [Replicate](./replicate.md)
 	*  [Distribute-Replicate](./distribute-replicate.md)
-        *  [Disperse](./disperse.md)
+	*  [Disperse](./disperse.md)
 	*  [Distribute-Disperse](./distribute-disperse.md)
 	*  [Sharded Volume](./shard.md)
 
@@ -27,11 +27,11 @@
 
 4. Access Mechanisms
 
-	*  [File Access]
-		*  [FUSE](./fuse.md)
-		*  [NFS](./nfs.md)
-		*  [SMB](./smb.md)
-		*  [API](./gfapi)
+	*  File Access
+		-  [FUSE](./fuse.md)
+		-  [NFS](./nfs.md)
+		-  [SMB](./smb.md)
+		-  [API](./gfapi.md)
 
 	*  [Block Access](./block-access.md)
 	*  [Object Access](./object-access.md)
@@ -58,7 +58,7 @@
 
 7. Monitoring Tools
 
-	*  [grafana](./grafana.md)
+	*  [Grafana](./grafana.md)
 	*  [Eventing](./eventing.md)
 	*  [Gstatus](./gstatus.md)
 
@@ -69,7 +69,7 @@
 	*  [Heal/Split Brain Issues](./heal-issues.md)
 	*  [High Memory Consumption](./high-memory-consumption.md)
 	*  [Data Collection for Reporting](./data-collection-for-Reporting.md)
-	*  [Logs](./log.md)
+	*  [Logs](./logs.md)
 	*  [Gluster Internal Store](./gluster-internal-store.md)
 	*  [Gluster Processes](./gluster-processes.md)
 	*  [GFID To Path](gfid-to-path.md)
@@ -81,4 +81,4 @@
 	*  [Bareos](./bareos.md)
 	*  [ZFS](./zfs.md)
 
-10. [Glossory](glossory.md)
+10. [Glossory](./glossory.md)

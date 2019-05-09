@@ -6,7 +6,85 @@ repo_url: https://github.com/poornimag/glusterdocs-V2/
 docs_dir: docs
 
 nav:
-- Home: index.md
+- About Gluster: about-gluster.md
+- Quick Start Guide:
+    - GlusterFS: Quick Start Guide/glusterfs.md
+    - Gluster Block: Quick Start Guide/gluster-block.md
+    - Gluster Object: Quick Start Guide/gluster-object.md
+    - Gluster Container Storage: Quick Start Guide/gluster-container-storage.md
+    - Gluster For Hyperconverged Infrastructure: Quick Start Guide/gluster-ovirt.md
+- Install Guide:
+    - Prerequisites: Install Guide/prerequisites.md
+    - Install GlusterFS: Install Guide/install-glusterfs.md
+- Administration Guide:
+    - Prerequisites:
+       - Add Firewall Rules: Adm/firewall-rules.md
+       - Create Storage Pool: Adm/create-storage-pool.md
+       - Create Bricks: Adm/create-bricks.md
+    - Volume Create:
+       - Dsitribute: Adm/distribute.md
+       - Replicate: Adm/replicate.md
+       - Distribute-Replicate: Adm/distribute-replicate.md
+       - Disperse: Adm/disperse.md
+       - Distribute-Disperse: Adm/distribute-disperse.md
+       - Sharded Volume: Adm/shard.md
+    - Volume Management:
+       - Volume lifecycle: Adm/volume-lifecycle.md
+       - Volume Configurations: Adm/volume-configurations.md
+       - Scale Up Disperse By One: Adm/scale-up-desperse-by-one.md
+       - Scale Up Storage: Adm/scale-up-storage.md
+       - Scale Down Storage: Adm/scale-down-storage.md
+       - Replacing bricks: Adm/replace-bricks.md
+       - Rebalance Volume Data: Adm/rebalance.md
+       - Self Heal Volume Data: Adm/self-heal.md
+    - Access Mechanisms:
+       - File Access:
+          - FUSE: Adm/fuse.md
+          - NFS: Adm/nfs.md
+          - SMB: Adm/smb.md
+          - API: Amd/gfapi.md
+       - Block Access: Adm/block-access.md
+       - Object Access: Adm/object-access.md
+    - Performance Tunables:
+       - Kernel Performance Tunables: Adm/kernel-perfoamance-tunables.md
+       - Workload specific Tunables:
+          - Small Files: Adm/small-files.md
+          - Large Files: Adm/large-files.md
+          - Hyperconverged Setup: Adm/hyperconverged-setup.md
+    - Key Data Services:
+       - Geo Replication: Adm/geo-replication.md
+       - Snapshot: Adm/snapshot.md
+       - Bitrot Detection: Adm/bitrot-detection.md
+       - Shard For Large Files: Adm/shard-for-large-files.md
+       - Cloud-Sync: Adm/cloud-sync.md
+       - SSL: Adm/ssl.md
+       - WORM: Adm/worm.md
+       - Compression: Adm/compression.md
+       - GfProxy: Adm/gfproxy.md
+    - Monitoring Tools:
+       - Grafana: Adm/grafana.md
+       - Eventing: Adm/eventing.md
+       - Gstatus: Adm/gstatus.md
+    - Troubleshooting:
+       - Performance Issues: Adm/performance.md
+       - Replace Brick: Adm/replace-brick.md
+       - Heal/Split Brain Issues: Adm/heal-issues.md
+       - High Memory Consumption: Adm/high-memory-consumption.md
+       - Data Collection for Reporting: Adm/data-collection-for-Reporting.md
+       - Logs: Adm/logs.md
+       - Gluster Internal Store: Adm/gluster-internal-store.md
+       - Gluster Processes: Adm/gluster-processes.md
+       - GFID To Path: Adm/gfid-to-path.md
+       - FAQs: Adm/FAQs.md
+    - Integration With Other Ecosystem:
+       - Hadoop: Adm/hadoop.md
+       - Bareos: Adm/bareos.md
+       - ZFS: Adm/zfs.md
+    - Glossory: Adm/glossory.md
+
+- Release Notes:
+- Upgrade Guide:
+
 theme:
   name: 'material'
 extra_javascript:
