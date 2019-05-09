@@ -9,6 +9,7 @@
 
 	*  [Dsitribute](./distribute.md)
 	*  [Replicate](./replicate.md)
+		-  [Arbiter](./arbiter.md)
 	*  [Distribute-Replicate](./distribute-replicate.md)
 	*  [Disperse](./disperse.md)
 	*  [Distribute-Disperse](./distribute-disperse.md)
