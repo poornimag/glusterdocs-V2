@@ -85,7 +85,7 @@ nav:
 - Release Notes:
 - Upgrade Guide:
 
-theme:
+themes:
   name: 'material'
 extra_javascript:
 - js/fix-docs.js
