@@ -16,71 +16,71 @@ nav:
 - Install Guide:
     - Prerequisites: Install Guide/prerequisites.md
     - Install GlusterFS: Install Guide/install-glusterfs.md
-- Administration Guide:
+- Administration Guideinistration Guide:
     - Prerequisites:
-       - Add Firewall Rules: Adm/firewall-rules.md
-       - Create Storage Pool: Adm/create-storage-pool.md
-       - Create Bricks: Adm/create-bricks.md
+       - Add Firewall Rules: Administration Guide/firewall-rules.md
+       - Create Storage Pool: Administration Guide/create-storage-pool.md
+       - Create Bricks: Administration Guide/create-bricks.md
     - Volume Create:
-       - Dsitribute: Adm/distribute.md
-       - Replicate: Adm/replicate.md
-       - Distribute-Replicate: Adm/distribute-replicate.md
-       - Disperse: Adm/disperse.md
-       - Distribute-Disperse: Adm/distribute-disperse.md
-       - Sharded Volume: Adm/shard.md
+       - Dsitribute: Administration Guide/distribute.md
+       - Replicate: Administration Guide/replicate.md
+       - Distribute-Replicate: Administration Guide/distribute-replicate.md
+       - Disperse: Administration Guide/disperse.md
+       - Distribute-Disperse: Administration Guide/distribute-disperse.md
+       - Sharded Volume: Administration Guide/shard.md
     - Volume Management:
-       - Volume lifecycle: Adm/volume-lifecycle.md
-       - Volume Configurations: Adm/volume-configurations.md
-       - Scale Up Disperse By One: Adm/scale-up-desperse-by-one.md
-       - Scale Up Storage: Adm/scale-up-storage.md
-       - Scale Down Storage: Adm/scale-down-storage.md
-       - Replacing bricks: Adm/replace-bricks.md
-       - Rebalance Volume Data: Adm/rebalance.md
-       - Self Heal Volume Data: Adm/self-heal.md
+       - Volume lifecycle: Administration Guide/volume-lifecycle.md
+       - Volume Configurations: Administration Guide/volume-configurations.md
+       - Scale Up Disperse By One: Administration Guide/scale-up-desperse-by-one.md
+       - Scale Up Storage: Administration Guide/scale-up-storage.md
+       - Scale Down Storage: Administration Guide/scale-down-storage.md
+       - Replacing bricks: Administration Guide/replace-bricks.md
+       - Rebalance Volume Data: Administration Guide/rebalance.md
+       - Self Heal Volume Data: Administration Guide/self-heal.md
     - Access Mechanisms:
        - File Access:
-          - FUSE: Adm/fuse.md
-          - NFS: Adm/nfs.md
-          - SMB: Adm/smb.md
+          - FUSE: Administration Guide/fuse.md
+          - NFS: Administration Guide/nfs.md
+          - SMB: Administration Guide/smb.md
           - API: Amd/gfapi.md
-       - Block Access: Adm/block-access.md
-       - Object Access: Adm/object-access.md
+       - Block Access: Administration Guide/block-access.md
+       - Object Access: Administration Guide/object-access.md
     - Performance Tunables:
-       - Kernel Performance Tunables: Adm/kernel-perfoamance-tunables.md
+       - Kernel Performance Tunables: Administration Guide/kernel-perfoamance-tunables.md
        - Workload specific Tunables:
-          - Small Files: Adm/small-files.md
-          - Large Files: Adm/large-files.md
-          - Hyperconverged Setup: Adm/hyperconverged-setup.md
+          - Small Files: Administration Guide/small-files.md
+          - Large Files: Administration Guide/large-files.md
+          - Hyperconverged Setup: Administration Guide/hyperconverged-setup.md
     - Key Data Services:
-       - Geo Replication: Adm/geo-replication.md
-       - Snapshot: Adm/snapshot.md
-       - Bitrot Detection: Adm/bitrot-detection.md
-       - Shard For Large Files: Adm/shard-for-large-files.md
-       - Cloud-Sync: Adm/cloud-sync.md
-       - SSL: Adm/ssl.md
-       - WORM: Adm/worm.md
-       - Compression: Adm/compression.md
-       - GfProxy: Adm/gfproxy.md
+       - Geo Replication: Administration Guide/geo-replication.md
+       - Snapshot: Administration Guide/snapshot.md
+       - Bitrot Detection: Administration Guide/bitrot-detection.md
+       - Shard For Large Files: Administration Guide/shard-for-large-files.md
+       - Cloud-Sync: Administration Guide/cloud-sync.md
+       - SSL: Administration Guide/ssl.md
+       - WORM: Administration Guide/worm.md
+       - Compression: Administration Guide/compression.md
+       - GfProxy: Administration Guide/gfproxy.md
     - Monitoring Tools:
-       - Grafana: Adm/grafana.md
-       - Eventing: Adm/eventing.md
-       - Gstatus: Adm/gstatus.md
+       - Grafana: Administration Guide/grafana.md
+       - Eventing: Administration Guide/eventing.md
+       - Gstatus: Administration Guide/gstatus.md
     - Troubleshooting:
-       - Performance Issues: Adm/performance.md
-       - Replace Brick: Adm/replace-brick.md
-       - Heal/Split Brain Issues: Adm/heal-issues.md
-       - High Memory Consumption: Adm/high-memory-consumption.md
-       - Data Collection for Reporting: Adm/data-collection-for-Reporting.md
-       - Logs: Adm/logs.md
-       - Gluster Internal Store: Adm/gluster-internal-store.md
-       - Gluster Processes: Adm/gluster-processes.md
-       - GFID To Path: Adm/gfid-to-path.md
-       - FAQs: Adm/FAQs.md
+       - Performance Issues: Administration Guide/performance.md
+       - Replace Brick: Administration Guide/replace-brick.md
+       - Heal/Split Brain Issues: Administration Guide/heal-issues.md
+       - High Memory Consumption: Administration Guide/high-memory-consumption.md
+       - Data Collection for Reporting: Administration Guide/data-collection-for-Reporting.md
+       - Logs: Administration Guide/logs.md
+       - Gluster Internal Store: Administration Guide/gluster-internal-store.md
+       - Gluster Processes: Administration Guide/gluster-processes.md
+       - GFID To Path: Administration Guide/gfid-to-path.md
+       - FAQs: Administration Guide/FAQs.md
     - Integration With Other Ecosystem:
-       - Hadoop: Adm/hadoop.md
-       - Bareos: Adm/bareos.md
-       - ZFS: Adm/zfs.md
-    - Glossory: Adm/glossory.md
+       - Hadoop: Administration Guide/hadoop.md
+       - Bareos: Administration Guide/bareos.md
+       - ZFS: Administration Guide/zfs.md
+    - Glossory: Administration Guide/glossory.md
 
 - Release Notes:
 - Upgrade Guide:
