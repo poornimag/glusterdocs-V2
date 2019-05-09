@@ -6,7 +6,7 @@ repo_url: https://github.com/poornimag/glusterdocs-V2/
 docs_dir: docs
 
 nav:
-- About Gluster: about-gluster.md
+- Home: about-gluster.md
 - Quick Start Guide:
     - GlusterFS: Quick Start Guide/glusterfs.md
     - Gluster Block: Quick Start Guide/gluster-block.md
