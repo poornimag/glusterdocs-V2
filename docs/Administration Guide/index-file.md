@@ -19,6 +19,7 @@
 
 	*  [Volume lifecycle](./volume-lifecycle.md)
 	*  [Volume Configurations](./volume-configurations.md)
+	*  [Expanding volume](./expanding_volume.md)
 	*  [Scale Up Disperse By One](./scale-up-desperse-by-one.md)
 	*  [Scale Up Storage](./scale-up-storage.md)
 	*  [Scale Down Storage](./scale-down-storage.md)
