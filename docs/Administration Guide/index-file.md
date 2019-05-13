@@ -21,11 +21,8 @@
 	*  [Volume Configurations](./volume-configurations.md)
 	*  [Expanding volume](./expanding_volume.md)
 	*  [Shrinking volume](./shrinking_volume.md)
-	*  [Scale Up Disperse By One](./scale-up-desperse-by-one.md)
-	*  [Scale Up Storage](./scale-up-storage.md)
-	*  [Scale Down Storage](./scale-down-storage.md)
+	*  [Rebalance](./rebalance.md)
 	*  [Replacing bricks](./replace-bricks.md)
-	*  [Rebalance Volume Data](./rebalance.md)
 	*  [Self Heal Volume Data](./self-heal.md)
 
 4. Access Mechanisms
