@@ -31,11 +31,13 @@ nav:
     - Volume Management:
        - Volume lifecycle: Administration Guide/volume-lifecycle.md
        - Volume Configurations: Administration Guide/volume-configurations.md
+       - Expanding Volume: Administration Guide/expanding_volume.md
+       - Shrinking Volume: Administration Guide/shrinking_volume.md
+       - Rebalance: Administration Guide/rebalance.md
+       - Replacing bricks: Administration Guide/replace_bricks.md
        - Scale Up Disperse By One: Administration Guide/scale-up-desperse-by-one.md
        - Scale Up Storage: Administration Guide/scale-up-storage.md
        - Scale Down Storage: Administration Guide/scale-down-storage.md
-       - Replacing bricks: Administration Guide/replace-bricks.md
-       - Rebalance Volume Data: Administration Guide/rebalance.md
        - Self Heal Volume Data: Administration Guide/self-heal.md
     - Access Mechanisms:
        - File Access:
