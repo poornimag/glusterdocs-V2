@@ -29,7 +29,7 @@
 
 	*  File Access
 		-  [FUSE](./fuse.md)
-		-  [NFS](./nfs.md)
+		-  [NFS](./NFS_Ganesha.md)
 		-  [SMB](./smb.md)
 		-  [API](./gfapi.md)
 

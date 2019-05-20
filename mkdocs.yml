@@ -42,8 +42,8 @@ nav:
     - Access Mechanisms:
        - File Access:
           - FUSE: Administration Guide/fuse.md
-          - NFS: Administration Guide/nfs.md
           - SMB: Administration Guide/smb.md
+          - NFS: Administration Guide/NFS_Ganesha.md
           - API: Amd/gfapi.md
        - Block Access: Administration Guide/block-access.md
        - Object Access: Administration Guide/object-access.md
