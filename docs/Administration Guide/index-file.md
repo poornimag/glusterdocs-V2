@@ -34,7 +34,7 @@
 		-  [API](./gfapi.md)
 
 	*  [Block Access](./block-access.md)
-	*  [Object Access](./object-access.md)
+	*  [Object Access](./object.md)
 
 5. Performance Tunables
 

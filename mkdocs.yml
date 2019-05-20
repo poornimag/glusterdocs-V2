@@ -46,7 +46,7 @@ nav:
           - NFS: Administration Guide/NFS_Ganesha.md
           - API: Amd/gfapi.md
        - Block Access: Administration Guide/block-access.md
-       - Object Access: Administration Guide/object-access.md
+       - Object Access: Administration Guide/object.md
     - Performance Tunables:
        - Kernel Performance Tunables: Administration Guide/kernel-perfoamance-tunables.md
        - Workload specific Tunables:
