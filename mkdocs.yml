@@ -48,7 +48,7 @@ nav:
        - Block Access: Administration Guide/block-access.md
        - Object Access: Administration Guide/object.md
     - Performance Tunables:
-       - Kernel Performance Tunables: Administration Guide/kernel-perfoamance-tunables.md
+       - Kernel Performance Tunables: Administration Guide/kernel_perf_tunables.md
        - Workload specific Tunables:
           - Small Files: Administration Guide/small-files.md
           - Large Files: Administration Guide/large-files.md

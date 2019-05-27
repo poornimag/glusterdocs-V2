@@ -38,7 +38,7 @@
 
 5. Performance Tunables
 
-	*  [Kernel Performance Tunables](./kernel-perfoamance-tunables.md)
+	*  [Kernel Performance Tunables](./kernel_perf_tunables.md)
 	*  [Workload specific Tunables]
 		* [Small Files](./small-files.md)
 		* [Large Files](./large-files.md)
