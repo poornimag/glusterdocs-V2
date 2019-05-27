@@ -50,7 +50,7 @@ nav:
     - Performance Tunables:
        - Kernel Performance Tunables: Administration Guide/kernel_perf_tunables.md
        - Workload specific Tunables:
-          - Small Files: Administration Guide/small-files.md
+          - Small Files: Administration Guide/small_files.md
           - Large Files: Administration Guide/large-files.md
           - Hyperconverged Setup: Administration Guide/hyperconverged-setup.md
     - Key Data Services:

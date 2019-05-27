@@ -40,7 +40,7 @@
 
 	*  [Kernel Performance Tunables](./kernel_perf_tunables.md)
 	*  [Workload specific Tunables]
-		* [Small Files](./small-files.md)
+		* [Small Files](./small_files.md)
 		* [Large Files](./large-files.md)
 		* [Hyperconverged Setup](./hyperconverged-setup.md)
 
